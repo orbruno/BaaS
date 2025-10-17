@@ -1,38 +1,52 @@
 // Data models aligned to app/models/pydantic/brand_strategy.py
-class GoldenCircle {
-  why string @description(#"
-    The core belief and purpose that drives the brand which is the fundamental reason the brand exists beyond just making money. It should be inspiring and reflect the brand's mission and values deattached from the founder. Imagine that the brand as the child of the founder has grown up and developed its own identity and purpose.
+enum JobType {
+  Functional @description(#"
+Select functional when customers try to perform or complete a specific task or solve a specific problem, for example, mow the lawn, eat healthy as a consumer, write a report, or help clients as a professional.
   "#)
-  how string @description(#"
-    The unique approach, process, or methods the brand uses to realize the Why. This includes the brand's values, principles, and differentiators that guide its actions. It should convey what makes the brand special in delivering on its purpose.
+  Social @description(#"
+Select social when your customers want to look good or gain power or status. These jobs describe how customers want to be perceived by others, for example, look trendy as a consumer or be perceived as competent as a professional.
   "#)
-  what string @description(#"
-    The concrete products, services, or outcomes delivered to customers.
+  Emotional @description(#"
+Select emotional when your customers seek a specific emotional state, such as feeling good or secure, for example, seeking peace of mind regarding one’s investments as a consumer or achieving the feeling of job security at one’s workplace.
   "#)
+  Supporting__BuyerofValue @description(#"
+Select Supporting__BuyerofValue when the job is related to buying value, such as comparing offers, deciding which products to buy, standing in a checkout line, completing a purchase, or taking delivery of a product or service.
+"#)
+  Supporting__CocreatorofValue @description(#"
+Select Supporting__CocreatorofValue related to cocreating value with your organization, such as posting product reviews and feedback or even participating in the design of a product or service.
+"#)
+  Supporting__TransferofValue @description(#"
+Select Supporting__TransferofValue when the job is related to the end of a value proposition’s life cycle, such as canceling a subscription, disposing of a product, transferring it to others, or reselling it.
+"#)
 }
 
-class GoldenCircleResponse {
-  brand_name string @description(#"
-    The name of the brand for which the Golden Circle is being created extracted from the interview content.
-  "#)
-  golden_circle GoldenCircle @description(#"
-    The Golden Circle summary (Why, How, What) for the brand based on the interview content. The answer should be on the same language as the interview content.
-  "#)
-  brand_story string @description(#"
+class CustomerJobs {
+  job string @description(#"
+Jobs describe the things your customers are trying to get done in their work or in their life. A customer job could be the tasks they are trying to perform and complete, the problems they are trying to solve, or the needs they are trying to satisfy. Make sure you take the customer’s perspective when investigating jobs. What you think of as important from your perspective might not be a job customers are actually trying to get done.*
+"#)
+  type JobType @description(#"
+The type of job being described, such as functional, social, emotional, or supporting jobs like buying value, cocreating value, or transferring value.
+"#)
+}
+
+class CustomerProfilesGeneratorResponse {
+  customerjobs CustomerJobs[] @description(#"
+Jobs describe the things your customers are trying to get done in their work or in their life. A customer job could be the tasks they are trying to perform and complete, the problems they are trying to solve, or the needs they are trying to satisfy. Make sure you take the customer’s perspective when investigating jobs. What you think of as important from your perspective might not be a job customers are actually trying to get done.* Distinguish between three main types of customer jobs to be done and supporting jobs  
+"#)
+  customerpains string @description(#"
     A brief narrative that encapsulates the General Information of the Brand and its founders, the origin of the brand and project, the purpose, inspiration and differentiation, their impact and needs.
   "#)
 }
 
-// Extract the Golden Circle (Why, How, What) from interview markdown.
-// - markdown: The interview content already extracted (e.g., via Docling) in Markdown format
-// - brand_name: The brand name to include in the response (pass the resolved brand name from the service)
-function ExtractGoldenCircleFromMarkdown(markdown: string) -> GoldenCircleResponse {
+function CustomerProfileGenerator(markdown: string, brand: string) -> CustomerProfilesGeneratorResponse {
   // Specify a client as provider/model-name
   // Ensure OPENAI_API_KEY is set when using the openai-responses clients
   client "openai-responses/gpt-5-nano"
 
   prompt #"
-    You are an expert brand strategist. Read the provided interview content in Markdown and produce a Golden Circle summary following Simon Sinek's model
+    You are an expert in the strategyzer value proposition design. You will read the provided interview content in Markdown and produce a Customer Profile including Customer Jobs, Customer Gains, and Customer Pains that describes one or more customer segments of the brand {{brand}}.
+    To understand the brand better here is the golden circle of the brand
+    Brand purpose 
 
     Instructions:
     - Only use information present in the interview content.
