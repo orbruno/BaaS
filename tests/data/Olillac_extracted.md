@@ -1,0 +1,164 @@
+## Cuestionario para conocer al Creador de Origen y entender su marca y la marca Olilac
+
+.
+
+## Información General
+
+Nombre de la emprendedora
+
+- Karla Casasola Vargas
+
+Nombre del emprendimiento
+
+- OLI LAC
+
+¿Qué significa el nombre de su emprendimiento?
+
+- La abuela paterna de Karla, la fundadora se llamaba Oliva y le decía Oli y era una mujer muy visionara que le gustaba mucho el conocimiento y la educación. Enviudó muy joven y crió 8 hijos sin su padre. Así que crearon Olilac en honor a ella y en representación de las muchas mujeres que se dedican a las actividades de campo
+
+¿Dónde se encuentran exactamente en Turrialba, cuál es el nombre de la finca?
+
+- Las Abras de Santa Cruz de Turrialba, con vista hacia el Caribe costarricense
+
+¿Cuándo fundaron el emprendimiento?
+
+- En el año 2023 empezamos con la idea
+
+¿Quiénes son los fundadores?
+
+- Karla Casasola Vargas es la fundadora de su proyecto. Ella menciona que lo inició con la ayuda de capital semilla de "Activa CATIE", y que trabaja "solita" en la producción y ventas, aunque cuenta con el apoyo incondicional de su padre y familia en la finca.
+
+Origen e Historia
+
+¿Cuál fue la motivación para iniciar su emprendimiento?
+
+- En el 2022 Karla decidió renunciar a su antiguo trabajo afín a su formación profesional, para dedicarse de lleno a su propio proyecto de elaboración de yogurt.
+- La motivación es el deseo de independencia, de construir algo propio y de llevar a cabo una visión personal que se vincula directamente con la responsabilidad histórica, de dar continuidad a las labores realizadas por muchos años en su familia.
+
+¿Hay una historia personal o familiar detrás del proyecto?
+
+- Por supuesto, reconocer y honrar la labor de mi padre, madre, abuelos y bisabuelos, no hay mejor manera de hacerlo que dar seguimiento a su trabajo.
+
+¿Por qué eligieron trabajar con este producto en particular?
+
+- Porque es un producto muy rico en sabor, textura, aporte nutricional  y bien valorado en el mercado.
+
+## Propósito e Inspiración
+
+¿Qué necesidades buscan resolver con su emprendimiento?
+
+- Karla, con su proyecto de yogur, busca resolver varios problemas y necesidades, que se alinean con la problemática general de los pequeños productores, tal como se discutió en el contexto de "Turri Creadores de Origen":
+1. Dificultad de los pequeños productores/as para acceder a mercados y obtener precios justos.
+- ■ Inspiración: Karla mencionó que trabaja "solita" en la producción y ventas, y que el mercado de San José es "complejo" y "agotador" debido a la tendencia de los consumidores a buscar lo "barato", lo que dificulta valorar los productos artesanales. Esto refleja la necesidad de una estructura que facilite la comercialización y el reconocimiento del valor.
+2. Falta de valoración y conocimiento sobre el origen de los productos artesanales.
+- ■ Inspiración: Se enfatizó la importancia del "storytelling" para que los consumidores valoren el trabajo artesanal. Esto sugiere que Karla busca que su yogurt no sea solo un producto, sino una expresión de su esfuerzo, la calidad, y la autenticidad de Turrialba.
+3. Necesidad de independencia y auto-realización a través del emprendimiento.
+- ■ Inspiración: Construir y gestionar su propio negocio, lo que es un problema si no existen las vías o el apoyo para hacerlo sostenible.
+
+¿Cómo solucionan esos problemas a través del producto o del proyecto?
+
+- Karla soluciona estos problemas a través de su propio emprendimiento, y potencialmente a través de colaboraciones:
+1. Producción de yogurt de calidad: Ofreciendo un producto artesanal, hecho en su finca, lo que implica un control directo sobre la calidad y los insumos.
+2. Búsqueda de alianzas y expansión: Su interés en complementar sus productos y su deseo de expandir su negocio más allá del yogurt demuestran una estrategia de buscar soluciones para la comercialización y el crecimiento. Su posible integración en el proyecto "Turri Creadores de Origen" sería una solución a la problemática de logística y acceso a mercados más amplios (tiendas, restaurantes, hoteles).
+
+¿Qué significa Turrialba para ustedes?
+
+- Turrialba significa un 'lugar seguro' donde se puede trabajar, vivir, compartir en familia y producir desde la tierra.
+
+## Público y Relación con el Cliente
+
+¿A quién está dirigido su proyecto?
+
+- Consumidores que valoran los productos artesanales y de origen que reconocen la formalización de los productos: A través de la posible conexión con "Turri Creadores de Origen", el objetivo es alcanzar a un público que aprecia el valor agregado, la historia y la autenticidad de los productos, especialmente aquellos que estén en San José o que busquen una conexión más profunda con lo que consumen.
+- Tiendas supermercados que buscan complementar su oferta o insumos y
+- Distribuidores que llevan los productos a diferentes lugares del país.
+- Hoteles y restaurantes, que busquen ofrecer una opción ligera y saludable en sus meriendas y desayunos.
+
+## ¿Qué tipo de cliente buscan atraer?
+
+- Clientes conscientes y valoradores: Buscan clientes que no sólo consuman el producto, sino que también valoren el esfuerzo, la historia y el origen artesanal detrás de él. Es decir, clientes que estén dispuestos a pagar un precio justo por la calidad y la autenticidad, superando la mentalidad de buscar "lo barato".
+- Comunidades locales: Clientes en su entorno cercano que necesiten acceso a productos frescos y de calidad que no encuentran fácilmente en su localidad.
+- Negocios (B2B): Tiendas, cafeterías, restaurantes que deseen ofrecer productos únicos y de alta calidad a sus propios clientes, y que busquen proveedores con historias auténticas para contar.
+
+¿Cuáles son las tareas que ayudan a sus clientes a resolver?
+
+- Adquirir yogur de alta calidad y sabor auténtico: Especialmente para aquellos que valoran los productos artesanales y frescos.
+- Consumir productos con una historia y un origen claro: Satisfacer el deseo de saber "de dónde viene" su comida y quién la produce.
+- Cuidar la salud con productos saludables
+
+¿Cuáles son las alegrías que buscan darles?
+
+- Satisfacción del paladar: Un yogur de alta calidad y sabor único.
+- Conexión emocional: La alegría de consumir un producto con una historia auténtica, sabiendo el esfuerzo y la pasión detrás de él.
+- Apoyo a los pequeños productores: La satisfacción de contribuir directamente al sustento de una emprendedora local y a la economía rural.
+- Conveniencia: Para los clientes locales, la alegría de tener acceso a un buen yogur sin tener que ir a un supermercado lejano.
+
+## ¿Cuáles son las dificultades que ayudan a aliviar?
+
+- Falta de opciones de calidad y autenticidad: Evitar el dolor de consumir productos industriales sin carácter o de origen desconocido.
+- Dificultad para encontrar productos artesanales: Solucionar el problema de la escasez de opciones locales y hechas a mano en ciertos mercados.
+- Precios justos vs. precios bajos: Mitigar el dolor de los productores que no pueden vender sus productos a precios justos, y ofrecer una alternativa a los consumidores que buscan algo más que solo "lo barato".
+- Inconveniencia en el acceso a productos: Reducir el dolor de tener que viajar lejos para conseguir productos frescos y específicos.
+
+## Valores y Diferenciación
+
+¿Qué caracteriza a su emprendimiento?
+
+- Producción artesanal: Ella misma elabora el yogur en su finca, lo que sugiere un proceso manual y cuidadoso, a diferencia de la producción industrial.
+- Origen local y auténtico: Sus productos provienen de su finca en Santa Cruz, Turrialba, lo que le da un origen claro y auténtico, y se conecta con la riqueza natural y cultural de la zona.
+- Esfuerzo individual: Karla menciona que trabaja "solita" en la producción y ventas, lo que resalta su dedicación personal al proyecto.
+- Potencial de expansión: Tiene la visión de expandir su negocio más allá del yogur, mostrando una mentalidad de crecimiento y diversificación.
+
+¿Qué diferencia su proyecto de otros similares en la región o en el país?
+
+- Lo que diferencia el proyecto de yogur de Karla de otros similares (por ejemplo, yogures industriales o de supermercado) es su carácter artesanal y su origen directo de la finca. A diferencia de los productos masivos, el yogur de Karla ofrece:
+- Autenticidad y trazabilidad: El cliente puede saber que el producto viene de una pequeña finca en Turrialba, lo que se alinea con la búsqueda de "Turri Creadores de Origen" de valorar el origen y la historia.
+- Sabor y calidad superiores (inferido): Los productos artesanales suelen enfocarse en la calidad de los ingredientes y el proceso, lo que generalmente resulta en un sabor diferenciado.
+- Conexión humana: No es solo un producto, sino el resultado del esfuerzo de Karla y su padre, lo que busca generar una conexión emocional con el consumidor (el "storytelling").
+- Apoyo a la economía local: Al comprar su yogur, se apoya directamente a una emprendedora y a la economía rural de Turrialba, a diferencia de las grandes corporaciones.
+- Apoyo a la ganadería lechera: al comprar su producto logras que pequeñas fincas transformen la leche y generen mayor valor a sus productos. Apoyas que personas jóvenes sigan construyendo historia.
+
+¿Su proyecto es sostenible? ¿De qué manera?
+
+- Sostenibilidad ambiental (Potencial): Al producir en una finca y mencionar que su padre la apoya, sugiere un enfoque más cercano a la tierra. Si se gestiona de manera responsable (lo cual no se detalla), podría ser sostenible en términos de impacto ambiental por ser una producción local y a menor escala.
+- Sostenibilidad económica (Desafío): Karla menciona las dificultades de venta y que el mercado de San José busca lo "barato". Esto indica que la sostenibilidad económica es un desafío actual que busca resolver, posiblemente a través de la integración con plataformas como "Turri Creadores de Origen" para mejorar su acceso al mercado y obtener precios justos. El hecho de que el proyecto de Correo Turri.cr también enfrenta desafíos de ingresos monetarios subraya esta dificultad para los pequeños emprendimientos.
+- Sostenibilidad social: Al ser un pequeño productor local que busca visibilizar su trabajo, contribuye a la sostenibilidad social de su comunidad, manteniendo vivas las tradiciones de producción.
+
+¿Apoya a la comunidad local? ¿Cómo?
+
+- Generación de empleo local: Aunque trabaje "solita", su padre la apoya en la finca, lo que genera un vínculo de trabajo familiar local. A futuro, si crece, podría generar más empleos.
+- Utiliza productos de lecheros locales
+
+## ¿Cuida las tradiciones de Turrialba?
+
+- Producción tradicional: La elaboración de yogur en una finca, utilizando posiblemente métodos tradicionales, contribuye a mantener las prácticas agrícolas y de producción de la región.
+- Conexión con el territorio: La historia de su finca en Santa Cruz y su conexión con el clima y la vida rural de Turrialba, son parte de la tradición y la identidad cultural que su emprendimiento preserva y celebra.
+
+## Impacto y Comunidad
+
+¿Cuántas personas dependen de manera directa o indirecta de su emprendimiento?
+
+- Según la información, Karla menciona que trabaja "solita" en la producción y ventas de su yogur, pero cuenta con el apoyo de su padre en la finca (por ejemplo, en el ordeño, como se sugiere en la solicitud de fotos).
+- Dependencia directa: Al menos Karla y su padre.
+- Dependencia indirecta: No se especifica, pero si compra insumos a otros productores locales o utiliza servicios de la comunidad, habría una dependencia indirecta más amplia. Sin embargo, no hay datos para cuantificar.
+
+¿Cuál es el impacto social o económico de su proyecto en la comunidad?
+
+- Dinamización económica local: Contribuye a la economía local al mantener una actividad productiva en la zona rural.
+- Preservación de tradiciones: Mantiene viva la tradición de la producción artesanal y la vida en la finca, que son parte de la identidad de Turrialba.
+- Inspiración para otros emprendedores: Su esfuerzo y persistencia pueden inspirar a otros pequeños productores a emprender y buscar formas de comercializar sus productos.
+- Visibilidad de Turrialba: Busca  proyectar una imagen positiva y auténtica de Turrialba.
+
+## Necesidades del Emprendimiento
+
+¿Cuáles son las necesidades principales que tiene su emprendimiento?
+
+- Crear más redes de apoyo, lograr que se conozca más el producto en el país, ampliar al cobertura.
+
+Productos y Servicios
+
+## Productos
+
+¿Cuáles tipos de productos produce?
+
+- Yogurt tipo Griego natural y con frutas, mantequilla, mantequilla ghee, Ricotta.
