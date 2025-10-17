@@ -1,6 +1,19 @@
 # syntax=docker/dockerfile:1.7
 
 ARG PYTHON_VERSION=3.11
+
+# Stage 1: Generate BAML Python client
+FROM node:20 AS baml_gen
+WORKDIR /gen
+# Install BAML CLI
+RUN npm install -g @boundaryml/baml
+# Copy BAML sources
+COPY app/models/BAML/baml_src ./baml_src
+# Generate Python client into expected package path
+# The CLI generates into ./baml_client by default; we'll place it under app/models/BAML
+RUN baml-cli generate --from ./baml_src
+
+# Stage 2: Python runtime image
 FROM python:${PYTHON_VERSION}-slim AS runtime
 
 ENV PYTHONDONTWRITEBYTECODE=1 \
@@ -35,6 +48,8 @@ RUN uv sync --frozen --no-dev
 
 # Copy the rest of the application
 COPY . .
+# Copy generated BAML client into the application
+COPY --from=baml_gen /gen/baml_client app/models/BAML/baml_client
 
 EXPOSE 8000
 
